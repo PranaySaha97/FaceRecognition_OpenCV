@@ -11,7 +11,7 @@ Test Size (per peson): 1 image
 
 ------------------------------
 Dir
----
+
   |
   |
   |Train Set
@@ -25,6 +25,7 @@ Dir
   |Test Set
     test_img1
     test_img2
+    
 -----------------------------
 Other Algorithms that could have been used are:
 1. Support Vector Classifiers
