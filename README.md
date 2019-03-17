@@ -30,4 +30,11 @@ Dir
 Other Algorithms that could have been used are:
 1. Support Vector Classifiers
 2. K nearest neighbors
-
+---------------------
+Exeution Steps:
+1. Create a folder "training-data"
+2. Inside training-data folder create 2 folders "s1" and "s2" and copy two sets of training images in each of them.
+3. Create a folder "test-data" and paste the test images inside it. (the test-data folder should be created alongside training-data )
+4. Now install the required packages mentioned (or imported) in code.
+5. Edit the subjects name inside the code.
+6. Use "python OpenCV-Face-Recognition-Python.py" command in order to run the python project.
